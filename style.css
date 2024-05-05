@@ -1,0 +1,11 @@
+body{
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 50%;
+    height: 400px;
+}
